@@ -31,7 +31,7 @@ To use the grammar error corrector script, follow these steps:
    ```
     pip install -r requirements.txt
    ```
-4. Run the Streamlit app:
+4. Run the Script:
    ```
     python grammarcheck.py
    ```
